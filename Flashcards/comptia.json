@@ -1,0 +1,37 @@
+{
+  "cards": [
+    {
+      "Q": "What is an SSD?",
+      "A": "Solid-State Drive"
+    },
+    {
+      "Q": "What is a SSHD?",
+      "A": "Solid-State Hybrid Drive"
+    },
+    {
+      "Q": "What is a Magnetic Disk?",
+      "A": "Traditional spinning disk platters"
+    },
+    {
+      "Q": "What does LCD stand for?",
+      "A": "Liquid Crystal Display"
+    },
+    {
+      "Q": "What does an AC adapter do?",
+      "A": "Converts AC to DC"
+    },
+    {
+      "Q": "SO-DIMM",
+      "A": "Small outline Dual in-line memory module"
+    },
+    {
+      "Q": "Micro-DIMM",
+      "A": "Micro-Dual in-line memory module"
+    },
+    {
+      "Q": "Memory used in Laptops and mobile devices",
+      "A": "SO-DIMM Micro-DIMM"
+
+    }
+  ]
+}
